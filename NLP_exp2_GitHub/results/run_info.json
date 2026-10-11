@@ -1,0 +1,28 @@
+{
+  "run_time_utc": "2026-10-11T02:37:05.035769+00:00",
+  "platform": "Windows",
+  "python": "3.10.22",
+  "packages": {
+    "torch": "2.14.1+cpu",
+    "numpy": "2.2.6",
+    "pandas": "2.3.3",
+    "matplotlib": "3.10.9"
+  },
+  "execution_method": "IPython in-process, sequential notebook cells",
+  "device": "cpu",
+  "torch_num_threads": 1,
+  "seed": 42,
+  "window_size": 1,
+  "embedding_dim": 10,
+  "learning_rate": 0.03,
+  "epochs": 1000,
+  "tokens": 37,
+  "vocabulary_size": 23,
+  "skipgram_samples": 58,
+  "cbow_samples": 37,
+  "final_logged_loss_rounded_4dp": {
+    "skipgram": 0.9805,
+    "cbow": 0.4159
+  },
+  "note": "重新运行扩展Notebook生成；课程报告中的截图来自原实验，两者记录范围不同。"
+}

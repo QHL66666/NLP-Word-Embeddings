@@ -1,0 +1,146 @@
+[
+  {
+    "file": "figures/01_original_cooccurrence.png",
+    "description": "原始语料与共现矩阵",
+    "width": 1185,
+    "height": 745,
+    "original_filename": "d5e222fcb450d1a8e26c4411a104aa06.png",
+    "sha256": "22af2eba1a0ace1043c357c05dba1a2af647d4da863e860c36362629bf4c8e36"
+  },
+  {
+    "file": "figures/02_original_svd.png",
+    "description": "原始SVD词向量",
+    "width": 390,
+    "height": 196,
+    "original_filename": "c8b97ae6b10339b18410e8fa3026b5e3.png",
+    "sha256": "47d425e3dace350853e3f4f06d524d2068adb02949f6092572498b74c85c4c8f"
+  },
+  {
+    "file": "figures/03_original_pair_metrics.png",
+    "description": "原始词对指标",
+    "width": 800,
+    "height": 194,
+    "original_filename": "95d9ec868a5f638ff9f80c5418533af0.png",
+    "sha256": "9dba6bf09961831fa7dbdb3fc85c0237563d5ae91642c9120a41c86a4a9b70a6"
+  },
+  {
+    "file": "figures/04_original_cosine_matrices.png",
+    "description": "原始余弦相似度矩阵",
+    "width": 400,
+    "height": 334,
+    "original_filename": "b9cb00c8f3cdc2a61580a8be77ccdc8b.png",
+    "sha256": "35d6b7f0157312554bdf4ae9efdfe23e12555ca5b7f5ef48d6358cae4efdcbbc"
+  },
+  {
+    "file": "figures/05_modified_cooccurrence.png",
+    "description": "修改语料与共现矩阵",
+    "width": 1184,
+    "height": 743,
+    "original_filename": "0180b5f79459832534ca560cc09bcb09.png",
+    "sha256": "4476cf33695d345a65d44db96afbdb98f957141f43a880daeaf24255ee905039"
+  },
+  {
+    "file": "figures/06_modified_svd.png",
+    "description": "修改后SVD词向量",
+    "width": 440,
+    "height": 199,
+    "original_filename": "b38a5c59c5f357715b8fa016895d1cbd.png",
+    "sha256": "7007f69228fbf7fc994cd0eab752813e2655b8bd8de493149c8be69dffca29c4"
+  },
+  {
+    "file": "figures/07_modified_pair_metrics.png",
+    "description": "修改后词对指标",
+    "width": 775,
+    "height": 199,
+    "original_filename": "dae2e73ee55807dc0dc38d9be05feefb.png",
+    "sha256": "6c392e29827ea9b4b1a82f416c82eb05dc00e3ced4aae3e4f2d9280b5df0688a"
+  },
+  {
+    "file": "figures/08_modified_cosine_matrices.png",
+    "description": "修改后余弦相似度矩阵",
+    "width": 474,
+    "height": 328,
+    "original_filename": "f0d5383bb22f9ec7591280bad59f40d2.png",
+    "sha256": "33cbf4fac94619087df63475ee9086ed438411eeafc12af859ae0d16b2d30e8c"
+  },
+  {
+    "file": "figures/09_training_corpus.png",
+    "description": "Skip-gram训练语料",
+    "width": 1111,
+    "height": 508,
+    "original_filename": "703ff6f0b48beaa647f3380d6bde3283.png",
+    "sha256": "73127ad8d0c0e211b5b64b89260e463f7fec2a11203a2ebac29a5770aa977177"
+  },
+  {
+    "file": "figures/10_vocabulary.png",
+    "description": "词表构建",
+    "width": 1090,
+    "height": 396,
+    "original_filename": "e7b9da913e760e3323662be7ff491bba.png",
+    "sha256": "9312a8333ea1468b67a566ba2575f86a0dc4958116f871256b9210de80460418"
+  },
+  {
+    "file": "figures/11_skipgram_samples.png",
+    "description": "Skip-gram样本构造",
+    "width": 1111,
+    "height": 915,
+    "original_filename": "dc7560f787fb221d74f2f1274ddc0f66.png",
+    "sha256": "44b2eb51a40ca8ebe3edddfdf785eb6eeb53fe5e9641cfa4849683bb1a3ba4cf"
+  },
+  {
+    "file": "figures/12_window_comparison.png",
+    "description": "窗口与样本数量对比",
+    "width": 1004,
+    "height": 226,
+    "original_filename": "677ef47388636b9e21e100877861ab02.png",
+    "sha256": "b67b6676dfae45e2e815f19d0683ad255be6a138457e0a14701af9d49ea992fc"
+  },
+  {
+    "file": "figures/13_training_loss.png",
+    "description": "Skip-gram损失曲线",
+    "width": 955,
+    "height": 605,
+    "original_filename": "a4c41d314adf8486221915749d4b18c1.png",
+    "sha256": "dd4d29cd36406019399befbde981d3095a0fc88c18017dd2f781cb7d04f1212c"
+  },
+  {
+    "file": "figures/14_embedding_similarity.png",
+    "description": "词向量提取与相似度",
+    "width": 854,
+    "height": 521,
+    "original_filename": "a6bc8d3da600f2c684f6e703d6d77fb6.png",
+    "sha256": "fbcf77599b2fc3a4427c8064b495338d918cf6749926d7b0fa6cef6b7cf93bd4"
+  },
+  {
+    "file": "figures/15_nearest_words.png",
+    "description": "相似词查询",
+    "width": 1096,
+    "height": 729,
+    "original_filename": "2643d8734ad75e9b7d8f7038f61c89a1.png",
+    "sha256": "48f2cffd16855e04d44f2036ebb65a50e6ef84a7f16733403fbeafccdd0f7702"
+  },
+  {
+    "file": "figures/16_trained_pair_metrics.png",
+    "description": "训练后词对指标",
+    "width": 1105,
+    "height": 435,
+    "original_filename": "51281714bad53c0280392acaf6aff4e1.png",
+    "sha256": "f4b0b55c92f17433043cb5e8d0507cdb367f73a931da49dbabb30cae99d451c3"
+  },
+  {
+    "file": "figures/17_pca.png",
+    "description": "PCA二维可视化",
+    "width": 1069,
+    "height": 850,
+    "original_filename": "e258b4aca9b3eb8d4a5e1a555a0355d6.png",
+    "sha256": "86846bf298d68035d7fedcdff662ad4886b1254150dca1db744a670bf2ed1dfe"
+  },
+  {
+    "file": "figures/18_cbow_samples.png",
+    "description": "CBOW样本构造",
+    "width": 1114,
+    "height": 1094,
+    "original_filename": "aeae0469934fa3e908817b4f1651c59c.png",
+    "sha256": "7d203dad42f45057eb8546775fdffe6397ea0f75c8ac268fc6922875eabc264a"
+  }
+]
